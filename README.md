@@ -38,4 +38,4 @@ Como tuvimos más de un estado del que requeriamos las mismas visualizaciones se
 [Visualización con parametros](https://github.com/CarolinaJuarezJ/Proyecto_Energia_BEDU/blob/master/CodigoR_parametrizado.R)
 
 ## Reporte final (Python)
-Este reporte aun esta pendiente y esperamos terminarlo el 1/05/2020
+Este reporte aun esta pendiente y esperamos terminarlo 
