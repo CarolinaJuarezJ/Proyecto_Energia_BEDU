@@ -1,5 +1,6 @@
 # Proyecto Energias Renovables BEDU
-Este proyecto pretende identificar posibles zonas con potencial eólico en México
+## Obetivo
+Este proyecto pretende generar un código prototipo para adquirir y analizar datos de viento en México y de esta forma ayudar a  identificar posibles zonas con potencial eólico en México
 ![Energias eolicas](https://media.giphy.com/media/Ynx3TPEReTklFeaoYB/giphy.gif)
 
 Uno de los principales problemas al hacer un análsis de potencial eólico es que los datos requeridos son de paga por lo cual utilizamos:
